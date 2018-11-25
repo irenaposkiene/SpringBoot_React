@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Spingboot_React.iml" filepath="$PROJECT_DIR$/Spingboot_React.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spingboot_React.iml" filepath="$PROJECT_DIR$/.idea/Spingboot_React.iml" />
     </modules>
   </component>
 </project>
